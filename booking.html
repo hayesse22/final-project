@@ -43,17 +43,17 @@
         <textarea name="issue" rows="6" required></textarea><br><br>
 
         <label>Preffered Service Type:</label><br>
-        <input type="radio" id="in-person" name="service-type" value="in-person" onclick="toggleTimeSlot()" required>
+        <input type="radio" name="service-type" value="in-person" onclick="toggleTimeSlot()" required>
         <label for="in-person">In-Person</label><br>
-        <input type="radio" id="remote" name="service-type" value="remote" onclick="toggleTimeSlot()">
+        <input type="radio" name="service-type" value="remote" onclick="toggleTimeSlot()">
         <label for="remote">Remote</label><br><br>
 
         <label>Preferred Appointment Date:</label><br>
         <input type="date" name="date"><br><br>
 
-        <div id="time-slot-section">
+        <div>
           <label for="time-slot">Preferred Service Time (Remote):</label><br>
-          <select id="time-slot" name="time-slot">
+          <select name="time-slot">
             <option value="">Select your time!</option>
             <option value="9am">7:00 AM to 8:00 AM</option>
             <option value="11am">8:00 AM to 9:00 AM</option>
