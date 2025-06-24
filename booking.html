@@ -43,9 +43,9 @@
         <textarea name="issue" rows="6" required></textarea><br><br>
 
         <label>Service Type:</label><br>
-        <input type="radio" value="in-person" onclick="toggleTimeSlot()" required>
+        <input type="radio" id="in-person" name="service-type" value="in-person" onclick="toggleTimeSlot()" required>
         <label for="in-person">In-Person</label><br>
-        <input type="radio" value="remote" onclick="toggleTimeSlot()">
+        <input type="radio" id="remote" name="service-type" value="remote" onclick="toggleTimeSlot()">
         <label for="remote">Remote</label><br><br>
 
         <label for="date">Preferred Appointment Date:</label><br>
