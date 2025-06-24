@@ -35,3 +35,11 @@ header h1 {
   padding-top: 0;
 }
 
+nav {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
