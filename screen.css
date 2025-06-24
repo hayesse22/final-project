@@ -24,7 +24,7 @@ header {
   padding: 30px 0;
   text-align: center;
   box-shadow: 5px 5px 20px rgba(0.5, 0.5, 0.5, 0.5);
-  border-bottom: 5px solid #4D9FD2;
+  border: 5px solid #4D9FD2;
 }
 
 header h1 {
