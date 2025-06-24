@@ -3,3 +3,7 @@ a.active {
     font-weight: bold;
 }
 
+html {
+    margin: 0;
+    padding: 0;
+}
