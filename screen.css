@@ -99,6 +99,6 @@ section {
 }
 
 section:hover {
-  box-shadow: 0 5px 20px rgba(1, 1, 1, 1);
+  box-shadow: 3px 8px 25px rgba(2, 2, 2, 2);
   transition: box-shadow 1.0s ease;
 }
