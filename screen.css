@@ -99,6 +99,13 @@ section {
 }
 
 section:hover {
-  box-shadow: 3px 8px 25px rgba(2, 2, 2, 2);
-  transition: box-shadow 1.0s ease;
+    box-shadow: 3px 8px 25px rgba(2, 2, 2, 2);
+    transition: box-shadow 1.0s ease;
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    text-align: center;
 }
