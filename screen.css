@@ -43,3 +43,11 @@ nav {
     flex-wrap: wrap;
 }
 
+nav a {
+    color: #a33b3b;
+    margin: 0 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 15px;
+}
