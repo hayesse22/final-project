@@ -165,3 +165,43 @@ input[type="text"] {
     transition: border-color 0.5s;
     margin-right: 50px;
 }
+
+input[type="email"] {
+    width: 85%;
+    padding: 10px;
+    border: 1px solid #282828;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: border-color 0.5s;
+    margin-right: 50px;
+}
+
+input[type="date"] {
+    width: 85%;
+    padding: 10px;
+    border: 1px solid #282828;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: border-color 0.5s;
+    margin-right: 50px;
+}
+
+select {
+    width: 85%;
+    padding: 10px;
+    border: 1px solid #282828;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: border-color 0.5s;
+    margin-right: 50px;
+}
+
+textarea {
+    width: 85%;
+    padding: 10px;
+    border: 1px solid #282828;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: border-color 0.5s;
+    margin-right: 50px;
+}
