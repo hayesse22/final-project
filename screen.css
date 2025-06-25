@@ -44,6 +44,10 @@ header img {
     padding: 30px;
 }
 
+header nav ul {
+    position: sticky;
+}
+
 nav {
     margin-top: 8px;
     margin-bottom: 8px;
