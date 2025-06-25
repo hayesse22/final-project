@@ -210,3 +210,13 @@ textarea {
     margin-right: 50px;
     background-color: #eadfee;
 }
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="date"]:focus,
+select:focus,
+textarea:focus {
+    border-color: #242424;
+    background-color: #f6f2f8;
+    outline: none;
+}
