@@ -145,6 +145,10 @@ label {
     color: #171717;
 }
 
+input {
+    text-align: center;
+}
+
 input[type="radio"] {
     margin-right: 5px;
     transform: scale(1.1);
