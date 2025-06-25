@@ -287,3 +287,7 @@ div {
     text-align: center;
     gap: 60px;
 }
+
+.us {
+    flex-wrap: wrap;
+}
