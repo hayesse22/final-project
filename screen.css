@@ -121,6 +121,10 @@ section blockquote img {
     margin-top: 40px;
 }
 
+main section img {
+    border: 1px solid black;
+}
+
 #james,
 #maria,
 #brooke {
