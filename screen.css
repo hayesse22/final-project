@@ -157,7 +157,7 @@ footer {
 }
 
 input[type="text"] {
-    width: 100%;
+    width: 85%;
     padding: 10px;
     border: 1px solid #282828;
     border-radius: 5px;
