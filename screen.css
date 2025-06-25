@@ -129,6 +129,12 @@ form {
 
 }
 
+label {
+    margin-top: 12px;
+    font-weight: bold;
+    color: #171717;
+}
+
 input[type="radio"] {
     margin-right: 5px;
     transform: scale(1.1);
