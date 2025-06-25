@@ -115,6 +115,7 @@ section:hover {
 section blockquote img {
     border: 1px solid black;
     text-align: center;
+    margin-left: 500px;
 }
 
 #james,
