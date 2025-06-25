@@ -32,9 +32,9 @@ header h1 {
     margin-bottom: 8px;
     letter-spacing: 1px;
     padding-top: 0;
-    color: #FFEBEB;
+    color: #fff4f4;
     text-shadow: 6px 6px 1px rgba(255, 0, 0, 0.69);
-    font-family: "Cherry Bomb";
+    font-family: fantasy;
     font-size: 70px;
     font-style: normal;
     font-weight: 400;
@@ -150,3 +150,12 @@ input[type="radio"] {
     transform: scale(1.1);
 }
 
+footer {
+    background-color: #caadd3;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 25px 0;
+    margin-top: 80px;
+    font-size: 0.95rem;
+    border-top: 4px solid #1abc9c;
+}
