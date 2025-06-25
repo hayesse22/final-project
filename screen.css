@@ -71,8 +71,8 @@ nav a:hover {
 }
 
 main {
-    max-width: 1080px;
-    margin: 50px auto;
+    max-width: 1150px;
+    margin: 50px 50px 50px 50px;
     overflow: hidden;
     position: relative;
     background-color: #A0D1DD;
