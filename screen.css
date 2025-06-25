@@ -164,6 +164,7 @@ input[type="text"] {
     font-size: 1rem;
     transition: border-color 0.5s;
     margin-right: 50px;
+    background-color: #d6c0dd;
 }
 
 input[type="email"] {
