@@ -140,3 +140,6 @@ input[type="radio"] {
     transform: scale(1.1);
 }
 
+section blockquote img {
+    border: 1px solid black;
+}
