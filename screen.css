@@ -44,10 +44,10 @@ nav {
 }
 
 nav a {
-    color: #a33b3b;
-    margin: 0 20px;
+    color: #b84b4b;
+    margin: 10px;
     text-decoration: none;
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1rem;
     padding: 15px;
 }
