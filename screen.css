@@ -66,3 +66,13 @@ nav a:hover {
     border-radius: 6px;
 }
 
+main {
+    max-width: 1000px;
+    margin: 50px auto;
+    overflow: hidden;
+    position: relative;
+    background-color: #A0D1DD;
+    border-radius: 10px;
+    padding: 0 25px;
+    box-shadow: 5px 5px 20px rgba(0.5, 0.5, 0.5, 0.5);
+}
