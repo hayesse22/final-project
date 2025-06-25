@@ -164,4 +164,5 @@ input[type="text"] {
     font-size: 1rem;
     transition: border-color 0.5s;
     margin-right: 50px;
+    text-align: center;
 }
