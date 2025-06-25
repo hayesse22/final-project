@@ -164,7 +164,7 @@ input[type="text"] {
     font-size: 1rem;
     transition: border-color 0.5s;
     margin-right: 50px;
-    background-color: #d6c0dd;
+    background-color: #decce3;
 }
 
 input[type="email"] {
@@ -175,6 +175,7 @@ input[type="email"] {
     font-size: 1rem;
     transition: border-color 0.5s;
     margin-right: 50px;
+    background-color: #decce3;
 }
 
 input[type="date"] {
@@ -185,6 +186,7 @@ input[type="date"] {
     font-size: 1rem;
     transition: border-color 0.5s;
     margin-right: 50px;
+    background-color: #decce3;
 }
 
 select {
@@ -195,6 +197,7 @@ select {
     font-size: 1rem;
     transition: border-color 0.5s;
     margin-right: 50px;
+    background-color: #decce3;
 }
 
 textarea {
@@ -205,4 +208,5 @@ textarea {
     font-size: 1rem;
     transition: border-color 0.5s;
     margin-right: 50px;
+    background-color: #decce3;
 }
