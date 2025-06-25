@@ -22,6 +22,7 @@ header {
     background-color: #A0D1DD;
     color: #171717;
     padding: 30px 0;
+    border-radius: 10px;
     text-align: center;
     box-shadow: 5px 5px 20px rgba(0.5, 0.5, 0.5, 0.5);
     border: 5px solid #4D9FD2;
@@ -94,4 +95,5 @@ section {
     background-color: #acd4de;
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0.5, 0.5, 0.5, 0.5);
+    border: 3px solid #3d3d3d;
 }
