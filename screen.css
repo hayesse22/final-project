@@ -282,3 +282,7 @@ button {
     text-align: center;
     gap: 50px;
 }
+
+div {
+    text-align: center;
+}
