@@ -152,10 +152,6 @@ input[type="radio"] {
 
 footer {
     background-color: #caadd3;
-    color: #ecf0f1;
+    color: #ffffff;
     text-align: center;
-    padding: 25px 0;
-    margin-top: 80px;
-    font-size: 0.95rem;
-    border-top: 4px solid #1abc9c;
 }
