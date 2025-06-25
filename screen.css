@@ -41,6 +41,7 @@ nav {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    margin-right: 5px;
 }
 
 nav a {
