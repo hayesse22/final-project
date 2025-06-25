@@ -163,4 +163,5 @@ input[type="text"] {
     border-radius: 5px;
     font-size: 1rem;
     transition: border-color 0.2s;
+    margin-right: 30px;
 }
