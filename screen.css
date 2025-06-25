@@ -41,6 +41,10 @@ header h1 {
     line-height: normal;
 }
 
+header h2 {
+    color: #66b2e1;
+}
+
 header img {
     padding: 30px;
 }
