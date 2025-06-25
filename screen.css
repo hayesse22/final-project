@@ -218,5 +218,5 @@ select:focus,
 textarea:focus {
     border-color: #242424;
     background-color: #f6f2f8;
-    outline: none;
+    outline: 2px black;
 }
