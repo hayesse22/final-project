@@ -40,13 +40,13 @@ nav {
     margin-bottom: 8px;
     display: flex;
     justify-content: center;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
 }
 
 nav a {
     color: #b84b4b;
     margin: 10px;
-    text-decoration: none;
+    text-decoration: underline;
     justify-content: center;
     font-weight: bold;
     font-size: 1rem;
