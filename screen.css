@@ -38,9 +38,9 @@ header h1 {
 nav {
     margin-top: 8px;
     margin-bottom: 8px;
-    display: flexbox;
+    display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 
 nav a {
