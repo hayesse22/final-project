@@ -85,24 +85,24 @@ nav a:hover {
 main {
     max-width: 1250px;
     margin: 50px 50px 50px 50px;
+    padding: 0 25px;
+    box-shadow: 5px 5px 20px rgba(0.5, 0.5, 0.5, 0.5);
+    border: 5px solid rgb(41, 41, 41);
     overflow: hidden;
     position: relative;
     background-color: #90c8d6;
     border-radius: 10px;
-    padding: 0 25px;
-    box-shadow: 5px 5px 20px rgba(0.5, 0.5, 0.5, 0.5);
-    border: 5px solid rgb(41, 41, 41);
 }
 
 section {
     margin-bottom: 30px;
     margin-top: 30px;
-    padding: 30px 15px 23px 15px;
-    border-bottom: 2px dotted #626262;
-    background-color: #bdd9e0;
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0.5, 0.5, 0.5, 0.5);
     border: 2px solid #4c4c4c;
+    padding: 30px 15px 23px 15px;
+    border-bottom: 2px dotted #626262;
+    background-color: #bdd9e0;
 }
 
 section form {
@@ -147,16 +147,16 @@ p {
 form {
     background-color: #d8e5e8;
     padding: 20px;
+    text-align: center;
+    max-width: 810px;         
+    margin: 0 auto;
+    margin-bottom: 22px;
     border-radius: 15px;
     box-shadow: 0 2px 8px rgba(0.5, 0.5, 0.5, 0.5);
     border-top: 2px solid #454545;
     border-bottom: 2px solid #454545;
     border-right: 2px solid #454545;
     border-left: 2px solid #454545;
-    text-align: center;
-    max-width: 810px;         
-    margin: 0 auto;
-    margin-bottom: 22px;
 }
 
 label {
@@ -179,56 +179,56 @@ footer {
 input[type="text"] {
     width: 85%;
     padding: 10px;
+    margin-right: 50px;
+    background-color: #eadfee;
     border: 1px solid #282828;
     border-radius: 5px;
     font-size: 1rem;
     transition: border-color 0.5s;
-    margin-right: 50px;
-    background-color: #eadfee;
 }
 
 input[type="email"] {
     width: 85%;
     padding: 10px;
+    margin-right: 50px;
+    background-color: #eadfee;
     border: 1px solid #282828;
     border-radius: 5px;
     font-size: 1rem;
     transition: border-color 0.5s;
-    margin-right: 50px;
-    background-color: #eadfee;
 }
 
 input[type="date"] {
     width: 85%;
     padding: 10px;
+    margin-right: 50px;
+    background-color: #eadfee;
     border: 1px solid #282828;
     border-radius: 5px;
     font-size: 1rem;
     transition: border-color 0.5s;
-    margin-right: 50px;
-    background-color: #eadfee;
 }
 
 select {
     width: 85%;
     padding: 10px;
+    margin-right: 50px;
+    background-color: #eadfee;
     border: 1px solid #282828;
     border-radius: 5px;
     font-size: 1rem;
     transition: border-color 0.5s;
-    margin-right: 50px;
-    background-color: #eadfee;
 }
 
 textarea {
     width: 85%;
     padding: 10px;
+    margin-right: 50px;
+    background-color: #eadfee;
     border: 1px solid #282828;
     border-radius: 5px;
     font-size: 1rem;
     transition: border-color 0.5s;
-    margin-right: 50px;
-    background-color: #eadfee;
 }
 
 input[type="text"]:focus {
@@ -277,14 +277,14 @@ button {
     background-color: #9ecfdc;
     color: #171717;
     border: 1px solid black;
+    box-shadow: 0 3px 6px rgba(0.5, 0.5, 0.5, 0.5);
+    text-align: center;
+    gap: 50px;
     padding: 6px 10px;
     border-radius: 5px;
     cursor: pointer;
     font-size: 1rem;
     transition: background-color 0.9s ease, transform 0.3s ease;
-    box-shadow: 0 3px 6px rgba(0.5, 0.5, 0.5, 0.5);
-    text-align: center;
-    gap: 50px;
 }
 
 div {
@@ -299,3 +299,4 @@ div {
 h5 {
     margin-left: 50px;
 }
+
